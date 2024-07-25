@@ -1,12 +1,12 @@
 ![logo](https://github.com/Muhammad-Ahnaf-FP-BD/Muhammad-Ahnaf-FP-BD/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">👋 Hi, I'm Muhammad Ahnaf</h1>
-<h3 align="center">A Beginner & Passionate Full-Stack Development Student/Learner from Bangladesh</h3>
+<h3 align="center">A Beginner & Passionate Software Engineering Student/Learner from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ahnaf-fp-bd&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ahnaf-fp-bd" /> </p>
 
-- 🌱 I’m currently Learning **Bootstrap & Python**
+- 🌱 I’m currently Learning **Data Structure**
 
-- 💬 Ask me about **HTML & CSS**
+- 💬 Ask me about **HTML, CSS & Bootstrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
