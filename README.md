@@ -3,8 +3,6 @@
 <h1 align="center">🫡 Howdy! I'm identified as Muhammad Ahnaf 😉</h1>
 <h3 align="center">🖌️ A Web Designer who provides charmingness & uniqueness in Designs 🪄</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnaf-pro&label=Profile%20views&color=0e75b6&style=flat" alt="mahnaf-pro" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahnaf-pro" alt="mahnaf-pro" /></a> </p>
 
 - 🧑🏽‍💻 I’m currently working on [My Portfolio](https://mahnaf.riaurko.com)
