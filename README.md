@@ -1,4 +1,5 @@
-# 😉 Howdy Dev Guy! Nice to see you here! 🥷🏻
+<h1><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFsejgzNTFsOWFtcjNtYW5sMThneGo0ZGpvbDFicGgwY29pdGdzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USR9bpLz893PYVHk7C/giphy.gif" width="30" /> Howdy Dev Guy! Nice to see you here! <img src="https://media.giphy.com/media/JUV5N53iByVBO0zeNn/giphy.gif?cid=ecf05e477be2chag1aeio80q4gahjmgn4pj6q87zi17eipoz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" /></h1> 
+
 ## 🧑🏻 About Me
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU5dTdnMWFhdms1M2V2cm44MnA5YnpkcHZhbzd4dmI0OXo2dG9teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" align="right" height="330" />
 <strong>My Name is:</strong> Honestly- Muhammad Ahnaf | Technically- Ninja Quasar.<br/>
