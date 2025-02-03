@@ -1,42 +1,50 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGYfegso-c_0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729185636760?e=1741824000&v=beta&t=YHKbDYuMdUkc0x7iWXL_BCep6R_A8C29Al-uwQjgCpc)]()
+# 😉 Howdy Dev Guy! Nice to see you here! 🥷🏻
+## 🧑🏻 About Me
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU5dTdnMWFhdms1M2V2cm44MnA5YnpkcHZhbzd4dmI0OXo2dG9teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" align="right" height="300" />
+<strong>My Name is:</strong> Honestly- Muhammad Ahnaf | Technically- Ninja Quasar.<br/>
+Professionally Passionate in <strong>UI-UX Design</strong> with Love for TailwindCSS, REST API, Python, Postgres, Data Structures & Algorithms.<br/><br/>
+<li><strong>🪴 Currently Grasping:</strong> Django</li>
+<li><strong>🛠️ Currently Building:</strong> Event Management System with TailwindCSS, Django, Postgres.</li>
+<li><strong>🗨️ Ask Me About:</strong> CSS3, TailwindCSS, C++, Data Structures, MySQL.</li>
+<li><strong>💚 Hobbies:</strong> 🚗Travel & Discover 🔥Fry the Friday 🖼️Design Gorgeous Websites.</li>
+<li><strong>😄 Fun Fact:</strong> I love to overthink.</li>
+<li><strong>🧑🏻‍💻 Debug The-Bug:</strong> Got it?</li>
 
-<h1 align="center">🫡 Howdy! I'm identified as Muhammad Ahnaf 😉</h1>
-<h3 align="center">🖌️ A Web Designer who provides charmingness & uniqueness in Designs 🪄</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahnaf-pro" alt="mahnaf-pro" /></a> </p>
+## 🌐 Social Presence
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahnaf125@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahnaf125)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahnaf125)
 
-- 🧑🏽‍💻 I’m currently working on [My Portfolio](https://mahnaf.riaurko.com)
+## 💻 Tech Weapons ⚔️
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## 🐈‍⬛ GitHub Stats 📊
+![](https://github-readme-stats.vercel.app/api?username=mahnaf-pro&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahnaf-pro&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnaf-pro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Django & JavaScript**
+### 📄 Today's Quote 😎
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- 🫱🏽‍🫲🏼 I may help you about: **HTML5, CSS3, Bootstrap5, Tailwind3, C++, MySQL, Python, DSA**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mahnaf-pro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 📧 Reach me using **mahnaf125@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=mahnaf-pro&icon=2&color=9)](https://visitcount.itsvg.in)
 
-- 🪂 My Hobby: **Travelling & Exploring**
-
-- ⚡ Fun Fact: **I love to discover & innovate**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/Muhammad-Ahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammad_ahnaf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahnaf125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahnaf125" height="30" width="40" /></a>
-<a href="https://fb.com/mahnaf125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahnaf125" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mahnaf125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahnaf125" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Muhammad_Ahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muhammad_ahnaf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/01wpcyvaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="01wpcyvaat" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahnaf-pro&show_icons=true&locale=en&layout=compact" alt="mahnaf-pro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahnaf-pro&show_icons=true&locale=en" alt="mahnaf-pro" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
