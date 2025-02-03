@@ -3,7 +3,7 @@
 ## 🧑🏻 About Me
 <strong>My Name is:</strong> Honestly- Muhammad Ahnaf | Technically- Ninja Quasar.<br/>
 Professionally Passionate in <strong>UI-UX Design</strong> with Love for TailwindCSS, REST API, Python, Postgres, Data Structures & Algorithms.<br/><br/>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU5dTdnMWFhdms1M2V2cm44MnA5YnpkcHZhbzd4dmI0OXo2dG9teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" align="right" width="255" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU5dTdnMWFhdms1M2V2cm44MnA5YnpkcHZhbzd4dmI0OXo2dG9teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" align="right" height="255" />
 <li><strong>🪴 Currently Grasping:</strong> Django</li>
 <li><strong>🛠️ Currently Building:</strong> Event Management System with TailwindCSS, Django, Postgres.</li>
 <li><strong>🗨️ Ask Me About:</strong> CSS3, TailwindCSS, C++, Data Structures, MySQL.</li>
