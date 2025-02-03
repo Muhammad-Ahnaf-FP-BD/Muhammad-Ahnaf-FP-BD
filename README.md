@@ -1,6 +1,6 @@
 # 😉 Howdy Dev Guy! Nice to see you here! 🥷🏻
 ## 🧑🏻 About Me
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU5dTdnMWFhdms1M2V2cm44MnA5YnpkcHZhbzd4dmI0OXo2dG9teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" align="right" height="300" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU5dTdnMWFhdms1M2V2cm44MnA5YnpkcHZhbzd4dmI0OXo2dG9teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" align="right" height="330" />
 <strong>My Name is:</strong> Honestly- Muhammad Ahnaf | Technically- Ninja Quasar.<br/>
 Professionally Passionate in <strong>UI-UX Design</strong> with Love for TailwindCSS, REST API, Python, Postgres, Data Structures & Algorithms.<br/><br/>
 <li><strong>🪴 Currently Grasping:</strong> Django</li>
@@ -8,6 +8,7 @@ Professionally Passionate in <strong>UI-UX Design</strong> with Love for Tailwin
 <li><strong>🗨️ Ask Me About:</strong> CSS3, TailwindCSS, C++, Data Structures, MySQL.</li>
 <li><strong>💚 Hobbies:</strong> 🚗Travel & Discover 🔥Fry the Friday 🖼️Design Gorgeous Websites.</li>
 <li><strong>😄 Fun Fact:</strong> I love to overthink.</li>
+<li><strong>☕ My Charger:</strong> Coffee.</li>
 <li><strong>🧑🏻‍💻 Debug The-Bug:</strong> Got it?</li>
 
 
